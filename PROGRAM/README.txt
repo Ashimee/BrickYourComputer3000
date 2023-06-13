@@ -1,0 +1,1 @@
+RUN VIRUS.VBS
